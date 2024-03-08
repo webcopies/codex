@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charSet="utf-8"/>
+        <meta charSet="utf-8"/>
+        <link rel="preconnect" href="/" crossorigin/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="/_next/static/css/f909697b06f618de.css" crossorigin data-precedence="next"/>
+        <link rel="stylesheet" href="/_next/static/css/8083851bb0d6778d.css" crossorigin data-precedence="next"/>
+        <link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-1fc332719f9dd6d7.js" crossorigin/>
+        <script src="/_next/static/chunks/fd9d1056-f384f87f1cf22617.js" async crossorigin></script>
+        <script src="/_next/static/chunks/938-6ebff9db3255a57a.js" async crossorigin></script>
+        <script src="/_next/static/chunks/main-app-1f39a8ce1f554e40.js" async crossorigin></script>
+        <script src="/_next/static/chunks/0e5ce63c-fc61d7613879d2e4.js" async></script>
+        <script src="/_next/static/chunks/414-7c3d720e053aa7db.js" async></script>
+        <script src="/_next/static/chunks/599-bbc0082422bf60d1.js" async></script>
+        <script src="/_next/static/chunks/34-a02f41a118690fa9.js" async></script>
+        <script src="/_next/static/chunks/app/ios/page-b014c21ab645e188.js" async></script>
+        <script src="/_next/static/chunks/app/layout-8d94c4379f4f9b7f.js" async></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PR3KL1NPC"></script>
+        <meta name="description" content="Codex, the best FREE Roblox Exploit/Executor for Android, iOS &amp; PC. Bypass Byfron Anti-Cheat &amp; Exploit on your favorite Roblox games, with no key system &amp; no crashes!"/>
+        <meta name="theme-color" content="#d32642"/>
+        <meta name="robots" content="index,follow"/>
+        <link rel="manifest" href="/manifest.json"/>
+        <link rel="canonical" href="https://www.codex.lol"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content="https://www.codex.lol"/>
+        <meta property="og:title" content="Codex Roblox Executor - #1 Free Android, iOS &amp; PC Exploit"/>
+        <meta property="og:description" content="Codex, the best FREE Roblox Exploit/Executor for Android, iOS &amp; PC. Bypass Byfron Anti-Cheat &amp; Exploit on your favorite Roblox games, with no key system &amp; no crashes!"/>
+        <meta name="msapplication-TileColor" content="#da532c"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+        <title>Codex Roblox Executor - #1 Free Windows, Android, iOS &amp;PC Exploit</title>
+        <meta name="next-size-adjust"/>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'G-1PR3KL1NPC');
+        </script>
+        <script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin noModule></script>
+    </head>
+    <body class="__className_67d29c">
+        <svg width="0" height="0">
+            <linearGradient id="red-gradient" x1="100%" y1="100%" x2="0%" y2="0%">
+                <stop stop-color="#e22551" offset="0%"></stop>
+                <stop stop-color="#ba3f5c" offset="100%"></stop>
+            </linearGradient>
+        </svg>
+        <nav class="border border-white/5 fixed transition-all duration-300 p-2 top-0 inset-x-0 z-[100] backdrop-blur-xl fixed w-full">
+            <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+                <div class="relative flex items-center justify-between h-16">
+                    <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+                        <button class="mobile-menu_burger__A_ajg transform inline-flex items-center justify-center p-2 rounded-md focus:outline-none transition-all duration-300" aria-controls="mobile-menu" aria-expanded="false">
+                            <span class="sr-only">Open main menu</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 absolute text-neutral-100" width="20" height="20" viewBox="0 0 20 20" fill="none" data-hide="false">
+                                <path d="M2.5 2.5H17.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M2.5 7.5H17.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M2.5 12.5H17.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                            <svg class="h-5 w-5 absolute text-neutral-100" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" shape-rendering="geometricPrecision" data-hide="true">
+                                <path d="M18 6L6 18"></path>
+                                <path d="M6 6l12 12"></path>
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-between">
+                        <a class="flex flex-row items-center space-x-1.5" href="/">
+                            <img alt="Codex" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" style="color:transparent" src="/static/icons/icon.svg"/>
+                            <h2 class="flex items-center tracking-wide uppercase font-semibold">Codex</h2>
+                        </a>
+                        <ul class="hidden sm:flex items-center">
+                            <li class="flex-1" style="opacity:0">
+                                <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target href="/">Home</a>
+                            </li>
+                            <li class="flex-1" style="opacity:0">
+                                <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target href="/windows">Windows</a>
+                            </li>
+                            <li class="flex-1" style="opacity:0">
+                                <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/80" target href="/ios">iOS</a>
+                            </li>
+                            <li class="flex-1" style="opacity:0">
+                                <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target href="/android">Android</a>
+                            </li>
+                            <li class="flex-1">
+                                <a target="_blank" href="https://discord.gg/robloxexploits">
+                                    <button class="whitespace-nowrap ml-2 text-xs text-white/90 transition-all duration-300 hover:bg-white/5 uppercase rounded-lg border border border-white/10 px-5 py-3" style="opacity:0">Discord</button>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="hidden pointer-events-none sm:hidden" style="opacity:0;height:0px">
+                <ul class="px-2 pt-2 pb-3 space-y-1 border-t border-white/5">
+                    <li class="flex-1" style="opacity:0">
+                        <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target href="/">Home</a>
+                    </li>
+                    <li class="flex-1" style="opacity:0">
+                        <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/80" target href="/ios">iOS</a>
+                    </li>
+                    <li class="flex-1" style="opacity:0">
+                        <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target href="/android">Android</a>
+                    </li>
+                    <li class="flex-1" style="opacity:0">
+                        <a class="block tracking-wider uppercase py-2 px-4 text-center text-xs hover:opacity-80 transition-all duration-300 text-white/50" target="_blank" href="https://discord.gg/robloxexploits">Discord</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <main data-scroll-container="true" style="opacity:0">
+            <div style="position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none"></div>
+            <div>
+                <div class="flex min-h-screen flex-col items-center justify-center">
+                    <section class="mx-auto mt-36 flex max-w-[85rem] flex-col items-center xl:mt-0 xl:flex-row xl:justify-between">
+                        <div class="px-4 lg:px-0 relative z-[10] flex flex-col items-center justify-center">
+                            <img alt="Codex preview" loading="lazy" width="571" height="398" decoding="async" data-nimg="1" class="z-1 lg:relative lg:-left-6 transform-gpu transition hover:scale-105 xl:left-10 rounded-lg shadow-xl border border-white/10 lg:skew-y-[-2deg]" style="color:transparent" srcSet="/_next/image?url=%2Fassets%2Fios.webp&amp;w=640&amp;q=100 1x, /_next/image?url=%2Fassets%2Fios.webp&amp;w=1200&amp;q=100 2x" src="/_next/image?url=%2Fassets%2Fios.webp&amp;w=1200&amp;q=100"/>
+                        </div>
+                        <div class="lg:tilt z-0 flex flex-col items-start from-transparent to-white/5 p-[2rem] shadow-md lg:rounded-md lg:border lg:border-white/5 lg:bg-gradient-to-tr lg:p-[7rem]" id="tilt">
+                            <span class="flex items-center rounded-2xl bg-neutral-100/5 px-4 py-2 shadow-md">
+                                <p class="text-gradient inline-block inline-block text-xs font-bold">✨ New and improved</p>
+                            </span>
+                            <h1 class="mt-4 text-5xl font-semibold lg:text-6xl tracking-tight">
+                                Download Codex <br/>
+                                <span class="text-gradient font-semibold">for iOS.</span>
+                            </h1>
+                            <p class="mt-4 max-w-lg text-base text-neutral-400">With just a single click, get a free download of Codex, the best free Roblox executor/exploit.</p>
+                            <span class="mt-12 flex flex-row space-x-2">
+                                <button class="solid-button">
+                                    <a class="flex flex-row items-center" href="https://loot-link.com/s?oaRn">
+                                        Download 
+                                        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="ml-1.5">
+                                            <path d="M7.50005 1.04999C7.74858 1.04999 7.95005 1.25146 7.95005 1.49999V8.41359L10.1819 6.18179C10.3576 6.00605 10.6425 6.00605 10.8182 6.18179C10.994 6.35753 10.994 6.64245 10.8182 6.81819L7.81825 9.81819C7.64251 9.99392 7.35759 9.99392 7.18185 9.81819L4.18185 6.81819C4.00611 6.64245 4.00611 6.35753 4.18185 6.18179C4.35759 6.00605 4.64251 6.00605 4.81825 6.18179L7.05005 8.41359V1.49999C7.05005 1.25146 7.25152 1.04999 7.50005 1.04999ZM2.5 10C2.77614 10 3 10.2239 3 10.5V12C3 12.5539 3.44565 13 3.99635 13H11.0012C11.5529 13 12 12.5528 12 12V10.5C12 10.2239 12.2239 10 12.5 10C12.7761 10 13 10.2239 13 10.5V12C13 13.1041 12.1062 14 11.0012 14H3.99635C2.89019 14 2 13.103 2 12V10.5C2 10.2239 2.22386 10 2.5 10Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                        </svg>
+                                    </a>
+                                </button>
+                                <button class="outline-button whitespace-nowrap">Learn more</button>
+                            </span>
+                        </div>
+                        <div class="home_scroll__G0neq">
+                            Scroll to discover
+                            <!-- -->
+                            <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="mt-1 animate-bounce">
+                                <path d="M4 6H11L7.5 10.5L4 6Z" fill="currentColor"></path>
+                            </svg>
+                        </div>
+                    </section>
+                </div>
+                <section id="features" class="mx-auto pt-40 max-w-[85rem]" style="opacity:0">
+                    <div class="relative isolate -z-10">
+                        <div class="absolute inset-x-0 -top-40 transform-gpu overflow-hidden blur-[100px] sm:-top-80 lg:-top-60" aria-hidden="true">
+                            <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ba3f5c] via-[#fad7d7] to-[#d32642] opacity-10 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path:polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+                        </div>
+                    </div>
+                    <div class="home_grid-container__Hn_DR">
+                        <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+                            <div class="lg:pr-8">
+                                <div class="lg:max-w-lg">
+                                    <p class="text-gradient text-base font-medium uppercase leading-7">Why Us?</p>
+                                    <h2 class="mt-2 home_heading__kVprB">A powerful and stable scripting utility.</h2>
+                                    <p class="mt-6 text-lg leading-7 text-neutral-400">Paving the way for the future of script execution, Codex allows you to execute any script with ease. It &#x27;s fast, stable, and powerful.</p>
+                                    <hr class="mt-6 border-neutral-400/10"/>
+                                    <dl class="mt-10 max-w-xl space-y-8 text-base leading-6 text-neutral-400 lg:max-w-none">
+                                        <div class="relative pl-9">
+                                            <dt class="inline font-medium text-neutral-100">
+                                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="absolute left-1 top-1 h-5 w-5 text-rose-500" aria-hidden="true">
+                                                    <path d="M13.15 7.49998C13.15 4.66458 10.9402 1.84998 7.50002 1.84998C4.7217 1.84998 3.34851 3.90636 2.76336 4.99997H4.5C4.77614 4.99997 5 5.22383 5 5.49997C5 5.77611 4.77614 5.99997 4.5 5.99997H1.5C1.22386 5.99997 1 5.77611 1 5.49997V2.49997C1 2.22383 1.22386 1.99997 1.5 1.99997C1.77614 1.99997 2 2.22383 2 2.49997V4.31318C2.70453 3.07126 4.33406 0.849976 7.50002 0.849976C11.5628 0.849976 14.15 4.18537 14.15 7.49998C14.15 10.8146 11.5628 14.15 7.50002 14.15C5.55618 14.15 3.93778 13.3808 2.78548 12.2084C2.16852 11.5806 1.68668 10.839 1.35816 10.0407C1.25306 9.78536 1.37488 9.49315 1.63024 9.38806C1.8856 9.28296 2.17781 9.40478 2.2829 9.66014C2.56374 10.3425 2.97495 10.9745 3.4987 11.5074C4.47052 12.4963 5.83496 13.15 7.50002 13.15C10.9402 13.15 13.15 10.3354 13.15 7.49998ZM7 10V5.00001H8V10H7Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                </svg>
+                                                Reliable.
+                                            </dt>
+                                            <dd class="inline">Codex sets itself apart with continuous updates, adding features and fixing issues.</dd>
+                                        </div>
+                                        <div class="relative pl-9">
+                                            <dt class="inline font-medium text-neutral-100">
+                                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="absolute left-1 top-1 h-5 w-5 text-rose-500" aria-hidden="true">
+                                                    <path d="M6.85357 3.85355L7.65355 3.05353C8.2981 2.40901 9.42858 1.96172 10.552 1.80125C11.1056 1.72217 11.6291 1.71725 12.0564 1.78124C12.4987 1.84748 12.7698 1.97696 12.8965 2.10357C13.0231 2.23018 13.1526 2.50125 13.2188 2.94357C13.2828 3.37086 13.2779 3.89439 13.1988 4.44801C13.0383 5.57139 12.591 6.70188 11.9464 7.34645L7.49999 11.7929L6.35354 10.6465C6.15827 10.4512 5.84169 10.4512 5.64643 10.6465C5.45117 10.8417 5.45117 11.1583 5.64643 11.3536L7.14644 12.8536C7.34171 13.0488 7.65829 13.0488 7.85355 12.8536L8.40073 12.3064L9.57124 14.2572C9.65046 14.3893 9.78608 14.4774 9.9389 14.4963C10.0917 14.5151 10.2447 14.4624 10.3535 14.3536L12.3535 12.3536C12.4648 12.2423 12.5172 12.0851 12.495 11.9293L12.0303 8.67679L12.6536 8.05355C13.509 7.19808 14.0117 5.82855 14.1887 4.58943C14.2784 3.9618 14.2891 3.33847 14.2078 2.79546C14.1287 2.26748 13.9519 1.74482 13.6035 1.39645C13.2552 1.04809 12.7325 0.871332 12.2045 0.792264C11.6615 0.710945 11.0382 0.721644 10.4105 0.8113C9.17143 0.988306 7.80189 1.491 6.94644 2.34642L6.32322 2.96968L3.07071 2.50504C2.91492 2.48278 2.75773 2.53517 2.64645 2.64646L0.646451 4.64645C0.537579 4.75533 0.484938 4.90829 0.50375 5.0611C0.522563 5.21391 0.61073 5.34954 0.742757 5.42876L2.69364 6.59928L2.14646 7.14645C2.0527 7.24022 2.00002 7.3674 2.00002 7.50001C2.00002 7.63261 2.0527 7.75979 2.14646 7.85356L3.64647 9.35356C3.84173 9.54883 4.15831 9.54883 4.35357 9.35356C4.54884 9.1583 4.54884 8.84172 4.35357 8.64646L3.20712 7.50001L3.85357 6.85356L6.85357 3.85355ZM10.0993 13.1936L9.12959 11.5775L11.1464 9.56067L11.4697 11.8232L10.0993 13.1936ZM3.42251 5.87041L5.43935 3.85356L3.17678 3.53034L1.80638 4.90074L3.42251 5.87041ZM2.35356 10.3535C2.54882 10.1583 2.54882 9.8417 2.35356 9.64644C2.1583 9.45118 1.84171 9.45118 1.64645 9.64644L0.646451 10.6464C0.451188 10.8417 0.451188 11.1583 0.646451 11.3535C0.841713 11.5488 1.1583 11.5488 1.35356 11.3535L2.35356 10.3535ZM3.85358 11.8536C4.04884 11.6583 4.04885 11.3417 3.85359 11.1465C3.65833 10.9512 3.34175 10.9512 3.14648 11.1465L1.14645 13.1464C0.95119 13.3417 0.951187 13.6583 1.14645 13.8535C1.34171 14.0488 1.65829 14.0488 1.85355 13.8536L3.85358 11.8536ZM5.35356 13.3535C5.54882 13.1583 5.54882 12.8417 5.35356 12.6464C5.1583 12.4512 4.84171 12.4512 4.64645 12.6464L3.64645 13.6464C3.45119 13.8417 3.45119 14.1583 3.64645 14.3535C3.84171 14.5488 4.1583 14.5488 4.35356 14.3535L5.35356 13.3535ZM9.49997 6.74881C10.1897 6.74881 10.7488 6.1897 10.7488 5.5C10.7488 4.8103 10.1897 4.25118 9.49997 4.25118C8.81026 4.25118 8.25115 4.8103 8.25115 5.5C8.25115 6.1897 8.81026 6.74881 9.49997 6.74881Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                </svg>
+                                                High Performance.
+                                            </dt>
+                                            <dd class="inline">As a leader in the industry, we guarantee that our product is the best on the market.</dd>
+                                        </div>
+                                        <div class="relative pl-9">
+                                            <dt class="inline font-medium text-neutral-100">
+                                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="absolute left-1 top-1 h-5 w-5 text-rose-500" aria-hidden="true">
+                                                    <path d="M7.07095 0.650238C6.67391 0.650238 6.32977 0.925096 6.24198 1.31231L6.0039 2.36247C5.6249 2.47269 5.26335 2.62363 4.92436 2.81013L4.01335 2.23585C3.67748 2.02413 3.23978 2.07312 2.95903 2.35386L2.35294 2.95996C2.0722 3.2407 2.0232 3.6784 2.23493 4.01427L2.80942 4.92561C2.62307 5.2645 2.47227 5.62594 2.36216 6.00481L1.31209 6.24287C0.924883 6.33065 0.650024 6.6748 0.650024 7.07183V7.92897C0.650024 8.32601 0.924883 8.67015 1.31209 8.75794L2.36228 8.99603C2.47246 9.375 2.62335 9.73652 2.80979 10.0755L2.2354 10.9867C2.02367 11.3225 2.07267 11.7602 2.35341 12.041L2.95951 12.6471C3.24025 12.9278 3.67795 12.9768 4.01382 12.7651L4.92506 12.1907C5.26384 12.377 5.62516 12.5278 6.0039 12.6379L6.24198 13.6881C6.32977 14.0753 6.67391 14.3502 7.07095 14.3502H7.92809C8.32512 14.3502 8.66927 14.0753 8.75705 13.6881L8.99505 12.6383C9.37411 12.5282 9.73573 12.3773 10.0748 12.1909L10.986 12.7653C11.3218 12.977 11.7595 12.928 12.0403 12.6473L12.6464 12.0412C12.9271 11.7604 12.9761 11.3227 12.7644 10.9869L12.1902 10.076C12.3768 9.73688 12.5278 9.37515 12.638 8.99596L13.6879 8.75794C14.0751 8.67015 14.35 8.32601 14.35 7.92897V7.07183C14.35 6.6748 14.0751 6.33065 13.6879 6.24287L12.6381 6.00488C12.528 5.62578 12.3771 5.26414 12.1906 4.92507L12.7648 4.01407C12.9766 3.6782 12.9276 3.2405 12.6468 2.95975L12.0407 2.35366C11.76 2.07292 11.3223 2.02392 10.9864 2.23565L10.0755 2.80989C9.73622 2.62328 9.37437 2.47229 8.99505 2.36209L8.75705 1.31231C8.66927 0.925096 8.32512 0.650238 7.92809 0.650238H7.07095ZM4.92053 3.81251C5.44724 3.44339 6.05665 3.18424 6.71543 3.06839L7.07095 1.50024H7.92809L8.28355 3.06816C8.94267 3.18387 9.5524 3.44302 10.0794 3.81224L11.4397 2.9547L12.0458 3.56079L11.1882 4.92117C11.5573 5.44798 11.8164 6.0575 11.9321 6.71638L13.5 7.07183V7.92897L11.932 8.28444C11.8162 8.94342 11.557 9.55301 11.1878 10.0798L12.0453 11.4402L11.4392 12.0462L10.0787 11.1886C9.55192 11.5576 8.94241 11.8166 8.28355 11.9323L7.92809 13.5002H7.07095L6.71543 11.932C6.0569 11.8162 5.44772 11.5572 4.92116 11.1883L3.56055 12.046L2.95445 11.4399L3.81213 10.0794C3.4431 9.55266 3.18403 8.94326 3.06825 8.2845L1.50002 7.92897V7.07183L3.06818 6.71632C3.18388 6.05765 3.44283 5.44833 3.81171 4.92165L2.95398 3.561L3.56008 2.95491L4.92053 3.81251ZM9.02496 7.50008C9.02496 8.34226 8.34223 9.02499 7.50005 9.02499C6.65786 9.02499 5.97513 8.34226 5.97513 7.50008C5.97513 6.65789 6.65786 5.97516 7.50005 5.97516C8.34223 5.97516 9.02496 6.65789 9.02496 7.50008ZM9.92496 7.50008C9.92496 8.83932 8.83929 9.92499 7.50005 9.92499C6.1608 9.92499 5.07513 8.83932 5.07513 7.50008C5.07513 6.16084 6.1608 5.07516 7.50005 5.07516C8.83929 5.07516 9.92496 6.16084 9.92496 7.50008Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                </svg>
+                                                Stable.
+                                            </dt>
+                                            <dd class="inline">Run your favorite scripts seamlessly, without any crashes or lag.</dd>
+                                        </div>
+                                    </dl>
+                                </div>
+                            </div>
+                            <div class="relative overflow-hidden rounded shadow h-full w-full rounded-xl shadow-xl ring-1 ring-neutral-400/10 md:-ml-4 lg:-ml-0 min-h-[20rem]">
+                                <div class="video-facade-ios video-facade flex h-full w-full cursor-pointer items-center justify-center bg-black">
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" height="100px" width="100px" viewBox="0 0 100 100" class="h-12 w-12 text-white">
+                                        <path class="stroke-solid" fill="none" stroke="white" d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7 C97.3,23.7,75.7,2.3,49.9,2.5"></path>
+                                        <path class="stroke-dotted" fill="none" stroke="white" d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7 C97.3,23.7,75.7,2.3,49.9,2.5"></path>
+                                        <path class="icon" fill="white" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="steps" class="mx-auto mt-64 flex max-w-[85rem]" style="opacity:0">
+                    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center">
+                        <div class="text-center">
+                            <p class="text-gradient text-base font-medium uppercase leading-7">How to get started</p>
+                            <h2 class="mt-2 text-3xl font-semibold tracking-tight text-neutral-100 sm:text-4xl lg:text-5xl">Download Codex iOS in 
+                            <!-- -->
+                            4
+                            <!-- -->
+                            easy steps.</h2>
+                        </div>
+                        <div class="relative w-full max-w-lg mt-20" role="region" aria-roledescription="carousel">
+                            <div class="overflow-hidden">
+                                <div class="flex flex-col -mt-1 h-[285px]">
+                                    <div role="group" aria-roledescription="slide" class="min-w-0 shrink-0 grow-0 basis-full pt-1 md:basis-1/2">
+                                        <div class="p-1">
+                                            <div class="bg-white/[1%] text-left flex flex-col items-start p-14 border border-white/5 rounded-md">
+                                                <span class="bg-gradient-to-br from-rose-500 to-rose-400 my-2 rounded-md p-4">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-white w-5 h-5">
+                                                        <path d="M7.50005 1.04999C7.74858 1.04999 7.95005 1.25146 7.95005 1.49999V8.41359L10.1819 6.18179C10.3576 6.00605 10.6425 6.00605 10.8182 6.18179C10.994 6.35753 10.994 6.64245 10.8182 6.81819L7.81825 9.81819C7.64251 9.99392 7.35759 9.99392 7.18185 9.81819L4.18185 6.81819C4.00611 6.64245 4.00611 6.35753 4.18185 6.18179C4.35759 6.00605 4.64251 6.00605 4.81825 6.18179L7.05005 8.41359V1.49999C7.05005 1.25146 7.25152 1.04999 7.50005 1.04999ZM2.5 10C2.77614 10 3 10.2239 3 10.5V12C3 12.5539 3.44565 13 3.99635 13H11.0012C11.5529 13 12 12.5528 12 12V10.5C12 10.2239 12.2239 10 12.5 10C12.7761 10 13 10.2239 13 10.5V12C13 13.1041 12.1062 14 11.0012 14H3.99635C2.89019 14 2 13.103 2 12V10.5C2 10.2239 2.22386 10 2.5 10Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                    </svg>
+                                                </span>
+                                                <h3 class="mt-4 text-xl tracking-tight font-semibold">Download Codex</h3>
+                                                <p class="mt-2 text-base tracking-tighter leading-tight text-neutral-400">Install the Codex IPA from our website onto your device.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div role="group" aria-roledescription="slide" class="min-w-0 shrink-0 grow-0 basis-full pt-1 md:basis-1/2">
+                                        <div class="p-1">
+                                            <div class="bg-white/[1%] text-left flex flex-col items-start p-14 border border-white/5 rounded-md">
+                                                <span class="bg-gradient-to-br from-rose-500 to-rose-400 my-2 rounded-md p-4">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-white w-5 h-5">
+                                                        <path d="M3.5 2C3.22386 2 3 2.22386 3 2.5V12.5C3 12.7761 3.22386 13 3.5 13H11.5C11.7761 13 12 12.7761 12 12.5V6H8.5C8.22386 6 8 5.77614 8 5.5V2H3.5ZM9 2.70711L11.2929 5H9V2.70711ZM2 2.5C2 1.67157 2.67157 1 3.5 1H8.5C8.63261 1 8.75979 1.05268 8.85355 1.14645L12.8536 5.14645C12.9473 5.24021 13 5.36739 13 5.5V12.5C13 13.3284 12.3284 14 11.5 14H3.5C2.67157 14 2 13.3284 2 12.5V2.5Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                    </svg>
+                                                </span>
+                                                <h3 class="mt-4 text-xl tracking-tight font-semibold">Sideload the Codex IPA</h3>
+                                                <p class="mt-2 text-base tracking-tighter leading-tight text-neutral-400">Sideload Codex &#x27;s IPA using Scarlet, Trollstore and such.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div role="group" aria-roledescription="slide" class="min-w-0 shrink-0 grow-0 basis-full pt-1 md:basis-1/2">
+                                        <div class="p-1">
+                                            <div class="bg-white/[1%] text-left flex flex-col items-start p-14 border border-white/5 rounded-md">
+                                                <span class="bg-gradient-to-br from-rose-500 to-rose-400 my-2 rounded-md p-4">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-white w-5 h-5">
+                                                        <path d="M3.24182 2.32181C3.3919 2.23132 3.5784 2.22601 3.73338 2.30781L12.7334 7.05781C12.8974 7.14436 13 7.31457 13 7.5C13 7.68543 12.8974 7.85564 12.7334 7.94219L3.73338 12.6922C3.5784 12.774 3.3919 12.7687 3.24182 12.6782C3.09175 12.5877 3 12.4252 3 12.25V2.75C3 2.57476 3.09175 2.4123 3.24182 2.32181ZM4 3.57925V11.4207L11.4288 7.5L4 3.57925Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                    </svg>
+                                                </span>
+                                                <h3 class="mt-4 text-xl tracking-tight font-semibold">Launch modded Roblox</h3>
+                                                <p class="mt-2 text-base tracking-tighter leading-tight text-neutral-400">Launch the newly installed Roblox, and you &#x27;ll have access to Codex.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div role="group" aria-roledescription="slide" class="min-w-0 shrink-0 grow-0 basis-full pt-1 md:basis-1/2">
+                                        <div class="p-1">
+                                            <div class="bg-white/[1%] text-left flex flex-col items-start p-14 border border-white/5 rounded-md">
+                                                <span class="bg-gradient-to-br from-rose-500 to-rose-400 my-2 rounded-md p-4">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-white w-5 h-5">
+                                                        <path d="M4.89346 2.35248C3.49195 2.35248 2.35248 3.49359 2.35248 4.90532C2.35248 6.38164 3.20954 7.9168 4.37255 9.33522C5.39396 10.581 6.59464 11.6702 7.50002 12.4778C8.4054 11.6702 9.60608 10.581 10.6275 9.33522C11.7905 7.9168 12.6476 6.38164 12.6476 4.90532C12.6476 3.49359 11.5081 2.35248 10.1066 2.35248C9.27059 2.35248 8.81894 2.64323 8.5397 2.95843C8.27877 3.25295 8.14623 3.58566 8.02501 3.88993C8.00391 3.9429 7.98315 3.99501 7.96211 4.04591C7.88482 4.23294 7.7024 4.35494 7.50002 4.35494C7.29765 4.35494 7.11523 4.23295 7.03793 4.04592C7.01689 3.99501 6.99612 3.94289 6.97502 3.8899C6.8538 3.58564 6.72126 3.25294 6.46034 2.95843C6.18109 2.64323 5.72945 2.35248 4.89346 2.35248ZM1.35248 4.90532C1.35248 2.94498 2.936 1.35248 4.89346 1.35248C6.0084 1.35248 6.73504 1.76049 7.20884 2.2953C7.32062 2.42147 7.41686 2.55382 7.50002 2.68545C7.58318 2.55382 7.67941 2.42147 7.79119 2.2953C8.265 1.76049 8.99164 1.35248 10.1066 1.35248C12.064 1.35248 13.6476 2.94498 13.6476 4.90532C13.6476 6.74041 12.6013 8.50508 11.4008 9.96927C10.2636 11.3562 8.92194 12.5508 8.00601 13.3664C7.94645 13.4194 7.88869 13.4709 7.83291 13.5206C7.64324 13.6899 7.3568 13.6899 7.16713 13.5206C7.11135 13.4709 7.05359 13.4194 6.99403 13.3664C6.0781 12.5508 4.73641 11.3562 3.59926 9.96927C2.39872 8.50508 1.35248 6.74041 1.35248 4.90532Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                                    </svg>
+                                                </span>
+                                                <h3 class="mt-4 text-xl tracking-tight font-semibold">Enjoy!</h3>
+                                                <p class="mt-2 text-base tracking-tighter leading-tight text-neutral-400">Enjoy exploiting on your favorite Roblox games!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 disabled:pointer-events-none disabled:opacity-50 focus-visible:ring-neutral-300 border shadow-sm border-neutral-800 bg-neutral-950 hover:bg-neutral-800 hover:text-neutral-50 absolute h-8 w-8 rounded-full -top-12 left-1/2 -translate-x-1/2 rotate-90" disabled>
+                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4">
+                                    <path d="M6.85355 3.14645C7.04882 3.34171 7.04882 3.65829 6.85355 3.85355L3.70711 7H12.5C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H3.70711L6.85355 11.1464C7.04882 11.3417 7.04882 11.6583 6.85355 11.8536C6.65829 12.0488 6.34171 12.0488 6.14645 11.8536L2.14645 7.85355C1.95118 7.65829 1.95118 7.34171 2.14645 7.14645L6.14645 3.14645C6.34171 2.95118 6.65829 2.95118 6.85355 3.14645Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="sr-only">Previous slide</span>
+                            </button>
+                            <button class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 disabled:pointer-events-none disabled:opacity-50 focus-visible:ring-neutral-300 border shadow-sm border-neutral-800 bg-neutral-950 hover:bg-neutral-800 hover:text-neutral-50 absolute h-8 w-8 rounded-full -bottom-12 left-1/2 -translate-x-1/2 rotate-90" disabled>
+                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4">
+                                    <path d="M8.14645 3.14645C8.34171 2.95118 8.65829 2.95118 8.85355 3.14645L12.8536 7.14645C13.0488 7.34171 13.0488 7.65829 12.8536 7.85355L8.85355 11.8536C8.65829 12.0488 8.34171 12.0488 8.14645 11.8536C7.95118 11.6583 7.95118 11.3417 8.14645 11.1464L11.2929 8H2.5C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7H11.2929L8.14645 3.85355C7.95118 3.65829 7.95118 3.34171 8.14645 3.14645Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="sr-only">Next slide</span>
+                            </button>
+                        </div>
+                    </div>
+                </section>
+                <section id="faq" style="opacity:0">
+                    <div class="relative isolate -z-10">
+                        <div class="fixed absolute inset-x-0 transform-gpu overflow-hidden blur-[200px]" aria-hidden="true">
+                            <div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ba3f5c] to-[#fad7d7] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path:polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+                        </div>
+                    </div>
+                    <div class="mx-auto mt-64 flex max-w-[85rem] flex-col">
+                        <div class="flex w-full flex-col items-center justify-center px-6 text-center mb-8">
+                            <h2 class="mt-4 text-3xl font-medium text-neutral-100 sm:text-4xl">Frequently asked questions.</h2>
+                            <p class="mt-4 max-w-2xl leading-tight tracking-tight text-neutral-400">Ask a member of our community if you have a question that isn &#x27;t addressed here. Here are a few frequently asked questions.</p>
+                        </div>
+                        <details class="group">
+                            <summary class="flex items-center justify-between p-4 cursor-pointer border-b border-neutral-800 transition-all hover:bg-neutral-900/10 hover:border-neutral-800/50 duration-300">
+                                <span class="tracking-tight text-neutral-300">Can I use Codex executor on any platform?</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50 flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </summary>
+                            <div class="hidden p-4 text-neutral-500 tracking-tight text-left">Absolutely, Codex Executor is designed to work seamlessly across Android, iOS, and Windows platforms, ensuring a consistent experience for users.</div>
+                        </details>
+                        <details class="group">
+                            <summary class="flex items-center justify-between p-4 cursor-pointer border-b border-neutral-800 transition-all hover:bg-neutral-900/10 hover:border-neutral-800/50 duration-300">
+                                <span class="tracking-tight text-neutral-300">Is Codex Executor Free?</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50 flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </summary>
+                            <div class="hidden p-4 text-neutral-500 tracking-tight text-left">Codex is 100% free! To get started, complete the straightforward installation process and obtain a 24-hour key via our quick key system. It &#x27;s that simple!</div>
+                        </details>
+                        <details class="group">
+                            <summary class="flex items-center justify-between p-4 cursor-pointer border-b border-neutral-800 transition-all hover:bg-neutral-900/10 hover:border-neutral-800/50 duration-300">
+                                <span class="tracking-tight text-neutral-300">Is Codex Executor safe for Roblox exploiting?</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50 flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </summary>
+                            <div class="hidden p-4 text-neutral-500 tracking-tight text-left">While exploits are often misunderstood due to software manipulation, Codex is completely safe. Anti-virus and anti-malware programs may raise false alarms when scanning exploits, but rest assured, Codex is secure.</div>
+                        </details>
+                        <details class="group">
+                            <summary class="flex items-center justify-between p-4 cursor-pointer border-b border-neutral-800 transition-all hover:bg-neutral-900/10 hover:border-neutral-800/50 duration-300">
+                                <span class="tracking-tight text-neutral-300">Why is Codex the best Roblox executor/exploit?</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50 flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </summary>
+                            <div class="hidden p-4 text-neutral-500 tracking-tight text-left">Our dedicated team of developers continually strives to keep Codex Android at the forefront, providing regular updates, bug fixes, and innovative features you won &#x27;t find elsewhere. As a Codex user, expect prompt attention to any reported issues or suggestions, ensuring a seamless Roblox experience.</div>
+                        </details>
+                        <details class="group">
+                            <summary class="flex items-center justify-between p-4 cursor-pointer border-b border-neutral-800 transition-all hover:bg-neutral-900/10 hover:border-neutral-800/50 duration-300">
+                                <span class="tracking-tight text-neutral-300">Where can I receive support for Codex?</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50 flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </summary>
+                            <div class="hidden p-4 text-neutral-500 tracking-tight text-left">For prompt and round-the-clock support, we recommend joining our Discord server. Our dedicated team is available 24/7 to assist you and ensure a hassle-free experience with Codex.</div>
+                        </details>
+                    </div>
+                </section>
+                <section id="cta" style="opacity:0">
+                    <div class="my-40 bg-gradient-to-br from-rose-600/[.025] to-white/5">
+                        <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:flex lg:items-center lg:justify-between lg:px-8 lg:py-24">
+                            <h2 class="text-3xl font-medium text-neutral-100 md:text-4xl">
+                                Ready to start exploiting on Roblox? <br/>
+                                <span class="text-gradient font-semibold">Start using Codex today.</span>
+                            </h2>
+                            <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
+                                <div class="inline-flex rounded-md shadow">
+                                    <a class="cta-button" href="https://loot-link.com/s?oaRn">Download</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <footer class="w-full bg-gradient-to-t from-rose-950/[.15] to-transparent">
+                    <div class="mx-auto flex max-w-[85rem] flex-row items-center justify-between px-6 py-6 lg:px-8">
+                        <div class="flex flex-col space-y-2">
+                            <span class="text-sm text-neutral-300">© 
+                            <!-- -->
+                            2024
+                            <!-- -->
+                            Codex - All rights reserved.</span>
+                            <p class="text-xs text-neutral-400">Made with ❤️ by Codex LLC</p>
+                        </div>
+                        <a class="text-xs text-neutral-400 hover:text-neutral-100" href="/cdn-cgi/l/email-protection#2f">
+                            <button class="outline-button">Contact us</button>
+                        </a>
+                    </div>
+                    <div class="h-1 bg-[radial-gradient(closest-side,#df5898,#ba3f5c,#fad7d7,transparent)] opacity-50"></div>
+                </footer>
+            </div>
+        </main>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script src="/_next/static/chunks/webpack-1fc332719f9dd6d7.js" crossorigin async></script>
+        <script>
+            (self.__next_f = self.__next_f || []).push([0]);
+            self.__next_f.push([2, null])
+        </script>
+        <script>
+            self.__next_f.push([1, "1:HC[\"/\",\"\"]\n2:HL[\"/_next/static/css/f909697b06f618de.css\",\"style\",{\"crossOrigin\":\"\"}]\n0:\"$L3\"\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "4:HL[\"/_next/static/css/8083851bb0d6778d.css\",\"style\",{\"crossOrigin\":\"\"}]\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "5:I[7690,[],\"\"]\n7:I[7831,[],\"\"]\n8:I[5943,[\"310\",\"static/chunks/0e5ce63c-fc61d7613879d2e4.js\",\"414\",\"static/chunks/414-7c3d720e053aa7db.js\",\"599\",\"static/chunks/599-bbc0082422bf60d1.js\",\"34\",\"static/chunks/34-a02f41a118690fa9.js\",\"500\",\"static/chunks/app/ios/page-b014c21ab645e188.js\"],\"\"]\n9:I[5613,[],\"\"]\na:I[1778,[],\"\"]\nb:I[8561,[\"414\",\"static/chunks/414-7c3d720e053aa7db.js\",\"185\",\"static/chunks/app/layout-8d94c4379f4f9b7f.js\"],\"\"]\ne:I[8955,[],\"\"]\nc:{}\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "3:[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/f909697b06f618de.css\",\"precedence\":\"next\",\"crossOrigin\":\"\"}]],[\"$\",\"$L5\",null,{\"buildId\":\"O_vixOFUoe4dhlx1Q49GZ\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/ios\",\"initialTree\":[\"\",{\"children\":[\"ios\",{\"children\":[\"__PAGE__\",{}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"ios\",{\"children\":[\"__PAGE__\",{},[\"$L6\",[\"$\",\"$L7\",null,{\"propsForComponent\":{\"params\":{}},\"Component\":\"$8\",\"isStaticGeneration\":true}],null]]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"ios\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/8083851bb0d6778d.css\",\"precedence\":\"next\",\"crossOrigin\":\"\"}]]}]]},[null,[\"$\",\"$Lb\",null,{\"children\":[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[],\"styles\":null}],\"params\":\"$c\"}],null]],\"initialHead\":[false,\"$Ld\"],\"globalErrorComponent\":\"$e\"}]]\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "d:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"2\",{\"name\":\"next-size-adjust\"}]]\n6:null\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, ""])
+        </script>
+    </body>
+</html>
